@@ -15,9 +15,9 @@ The NBA is a highly competitive league where teams constantly look for ways to g
 - **Size of dataset:** 1,500+ players, 30 teams  
 
 ## Analytical Approach  
-- Data cleaning and preprocessing using Power BI  
+- Data cleaning and preprocessing using Power BI (Query)
 - Exploratory data analysis (EDA) using Excel  
-- Data visualization using Power BI  
+- Data visualization using Excel  
 
 ## Key Insights & Findings  
 - Top-performing players in the league are those with high efficiency ratings (e.g., points scored, rebounds, assists)  
@@ -36,12 +36,13 @@ The NBA is a highly competitive league where teams constantly look for ways to g
 - Monitor player efficiency metrics to inform lineup decisions and strategy  
 
 ## Dashboard Overview / Screenshots  
-The Power BI dashboard provides an interactive overview of player and team performance, enabling stakeholders to drill down into key metrics and trends.  
+The Excel dashboard provides an interactive overview of player and team performance, enabling stakeholders to drill down into key metrics and trends.  
 `!dashboard/screenshot.png`
 
 ## Tools Used  
 - Power BI  
-- Excel  
+- Excel
+- PowerPoint
 
 ## Project Repository Structure  
 - `/data`: Raw and processed data files  
